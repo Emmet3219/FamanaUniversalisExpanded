@@ -1146,6 +1146,25 @@ gomic_pagan_group = {
 		fervor = yes
 		
 		heretic = { HALOGENITE OPMAKI_H NASTAN }	
+	old_mak = {
+		center_of_religion = 5140
+		icon = 5
+		color = { 184 50 20 }
+		province = {
+			local_missionary_strength = 0.01
+		}
+		country = {
+			production_efficiency = -0.10
+			technology_cost = 0.10
+		}
+		
+		country_as_secondary = {
+
+		}
+		
+		fervor = yes
+		
+		heretic = { HALOGENITE OPMAKI_H UMIST }	
 	}
 	bosisi = {
 		color = { 93 90 23 }
