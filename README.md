@@ -1,13 +1,13 @@
 # Famana Universalis Expanded Github
 
 The official repository for the Famana Universalis Expanded mod.
+Not meant to be a serious mod, just for practice and fun
 Game is currently on version **1.0**.
 Join our discord at https://discord.gg/fjaqt7VMHA
 
 Special thanks to the team:
 
 - **Sunset** (Original Series Creator)
-- **Skillissueez** (Developer)
 - **SKM** (Original Developer)
 - **Ocros** (Original Developer)
 - **u1145** (Original Developer)
